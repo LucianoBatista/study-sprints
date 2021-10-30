@@ -19,7 +19,7 @@ In this sprint I want to
 - [ ] parte-7: https://www.youtube.com/watch?v=ySdGUcyUe8U&list=PLnVYEpTNGNtV1VCPlzhsbJsehEnvmC5bi
 
 ## Intro to Seaborn
-- [ ] https://seaborn.pydata.org/introduction.html
+- [x] https://seaborn.pydata.org/introduction.html
 - [ ] https://seaborn.pydata.org/tutorial/function_overview.html
 
 ## Clustering
