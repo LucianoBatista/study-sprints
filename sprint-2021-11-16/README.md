@@ -10,9 +10,9 @@ In this sprint I want to
 
 
 ## Hypothesis and Stats Concepts (Math Science)
-- [ ] parte-1: https://www.youtube.com/watch?v=KTFm7El1NBs&list=PLnVYEpTNGNtVa489GMepY9mk36VPymhzi
-- [ ] parte-2: https://www.youtube.com/watch?v=80YzzIm8NK8&list=PLnVYEpTNGNtVAmwUo6VmQxw43Z_PouH8o
-- [ ] parte-3: https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
+- [x] parte-1: https://www.youtube.com/watch?v=KTFm7El1NBs&list=PLnVYEpTNGNtVa489GMepY9mk36VPymhzi
+- [x] parte-2: https://www.youtube.com/watch?v=80YzzIm8NK8&list=PLnVYEpTNGNtVAmwUo6VmQxw43Z_PouH8o
+- [x] parte-3: https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
 - [ ] parte-4: https://www.youtube.com/watch?v=EOlNb1XXC_M&list=PLnVYEpTNGNtXVA7cR_H85j5Lxw8JOoX1z
 - [ ] parte-5: https://www.youtube.com/watch?v=uZZ8ymOajA4&list=PLnVYEpTNGNtUxvzKthP2lbsXeFpx86isV
 - [ ] parte-6: https://www.youtube.com/watch?v=S8VzUYJjBmw&list=PLnVYEpTNGNtUXq9vJuUCMvfd7jpN3YwMt
@@ -43,4 +43,8 @@ In this sprint I want to
 - [ ] code: https://github.com/ArjanCodes/2021-data-science-refactor
 
 ## Moreti Book 
-- [ ] CAP 03: Inferência Estatística
+- [ ] Part 03: Inferência Estatística
+  - [x] cap 10
+  - [ ] cap 11🚨
+
+>Some points of statistical inference are related to different kinds of sampling. Those different methods can be consulted by this book [Bussab e Bolfarine](https://www.blucher.com.br/livro/detalhes/elementos-de-amostragem-331).
