@@ -30,7 +30,7 @@ In this sprint I want to
 - [ ] https://www.datacamp.com/community/tutorials/k-means-clustering-python
 
 ## DataCamp Stats
-- [ ] https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1
+- [ ] https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1 🚨
 - [ ] https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-2
 
 ## PyJanitor
@@ -45,6 +45,6 @@ In this sprint I want to
 ## Moreti Book 
 - [ ] Part 03: Inferência Estatística
   - [x] cap 10
-  - [ ] cap 11🚨
+  - [ ] cap 11 🚨
 
 >Some points of statistical inference are related to different kinds of sampling. Those different methods can be consulted by this book [Bussab e Bolfarine](https://www.blucher.com.br/livro/detalhes/elementos-de-amostragem-331).
