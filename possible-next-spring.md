@@ -12,3 +12,6 @@ django + js for data viz:
 
 fastapi authentications types
 https://www.youtube.com/watch?v=lKk_hudmAfE
+
+inference by simulation
+https://app.datacamp.com/learn/courses/statistical-simulation-in-python
