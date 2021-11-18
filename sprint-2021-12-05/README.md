@@ -21,11 +21,14 @@ In this sprint I want to
 - [ ] **Introduction to Statistical Learning**: Review and Finalize practical example.
 
 ## JavaScript-React-FastAPI learning path
-- [ ] https://testdriven.io/blog/fastapi-react/
+- [ ] https://testdriven.io/blog/fastapi-react/ 🚨
 - [ ] Mosh-react: 1, 2 e 3
+  - [x] 1
+  - [ ] 2
+  - [ ] 3
 
 ## NLP
-- [ ] [python regex](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+- [x] [python regex](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 - [ ] Parte 1 do *NLP in Action* ou *Practical NLP*
 
 ## Blog Posts
