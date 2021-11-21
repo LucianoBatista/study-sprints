@@ -24,7 +24,7 @@ In this sprint I want to
 - [ ] https://testdriven.io/blog/fastapi-react/ 🚨
 - [ ] Mosh-react: 1, 2 e 3
   - [x] 1
-  - [ ] 2
+  - [x] 2
   - [ ] 3
 
 ## NLP
