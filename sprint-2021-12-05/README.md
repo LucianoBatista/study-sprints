@@ -25,7 +25,7 @@ In this sprint I want to
 - [ ] Mosh-react: 1, 2 e 3
   - [x] 1
   - [x] 2
-  - [ ] 3
+  - [ ] 3 🚨
 
 ## NLP
 - [x] [python regex](https://www.youtube.com/watch?v=K8L6KVGG-7o)
