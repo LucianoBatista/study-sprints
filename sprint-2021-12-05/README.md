@@ -30,6 +30,10 @@ In this sprint I want to
 ## NLP
 - [x] [python regex](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 - [ ] Parte 1 do *NLP in Action* ou *Practical NLP*
+  - [x] Cap 1 - NLP in Action
+  - [x] Cap 1 - Practical NLP
+  - [x] Cap 2 - Practical NLP
+  - [ ] Cap 3 - Practical NLP 🚨
 
 ## Blog Posts
 - [ ] Tera Challenge
