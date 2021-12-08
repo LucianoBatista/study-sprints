@@ -10,6 +10,10 @@ pyjanitor = "==0.21.2"
 matplotlib = "==3.4.3"
 statsmodels = "*"
 patsy = "*"
+numpy = "==1.21.4"
+feature-engine = "==1.1.2"
+scikit-learn = "==1.0.1"
+category-encoders = "==2.3.0"
 
 [dev-packages]
 black = "*"

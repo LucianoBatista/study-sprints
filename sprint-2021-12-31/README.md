@@ -18,7 +18,8 @@ In this sprint I want to:
 
 ## Feature Engineering
 
-- [ ] Cap 03 (Python Feat Engineering Cookbook)
+- [x] Cap 03 (Python Feat Engineering Cookbook): Categorical Transformations
+  - [ ] Feature Hashing will need more study: https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087
 - [ ] Cap 04 (Python Feat Engineering Cookbook)
 - [ ] Cap 01 [MaxKhun-Feat-Eng](http://www.feat.engineering/intro-intro.html)
 
