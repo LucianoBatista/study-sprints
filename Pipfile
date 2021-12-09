@@ -14,6 +14,7 @@ numpy = "==1.21.4"
 feature-engine = "==1.1.2"
 scikit-learn = "==1.0.1"
 category-encoders = "==2.3.0"
+scipy = "*"
 
 [dev-packages]
 black = "*"
