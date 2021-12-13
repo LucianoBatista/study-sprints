@@ -25,8 +25,12 @@ In this sprint I want to:
 
 ## Deep Learning Review
 
-- [ ] Notes
+- [ ] Notes🚨
 - [ ] First Chapters NN form scratch
+- [ ] Deep Learning with Pytorch
+  - [x] Chap 01
+  - [x] Chap 02
+  - [ ] Chap 03🚨
 
 ## Sebastian Ruder sequence:
 
