@@ -9,11 +9,12 @@ In this sprint I want to:
 
 ## Inference and Regression
 
-- [ ] Cap 01 (Regression Modeling Strategies)
+- [x] Cap 01 (Regression Modeling Strategies)
 - [ ] Cap 02 (Regression Modeling Strategies)
 - [ ] Cap 01 (Regression and other Stories)
 - [ ] Tera notebooks and Tamy class
-- [ ] https://www.reneshbedre.com/blog/anova.html
+- [ ] https://www.eigenfoo.xyz/tests-as-linear/ 🚨
+- [ ] https://www.reneshbedre.com/blog/anova.html 🚨
 - [ ] https://towardsdatascience.com/anova-tukey-test-in-python-b3082b6e6bda
 
 ## Feature Engineering
@@ -31,6 +32,7 @@ In this sprint I want to:
   - [x] Chap 01
   - [x] Chap 02
   - [ ] Chap 03🚨
+  - [ ] https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4 [playlist]
 
 ## Sebastian Ruder sequence:
 
