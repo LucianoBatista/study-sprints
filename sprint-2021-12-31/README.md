@@ -14,7 +14,7 @@ In this sprint I want to:
 - [ ] Cap 01 (Regression and other Stories)
 - [ ] Tera notebooks and Tamy class
 - [ ] https://www.eigenfoo.xyz/tests-as-linear/ 🚨
-- [ ] https://www.reneshbedre.com/blog/anova.html 🚨
+- [x] https://www.reneshbedre.com/blog/anova.html
 - [ ] https://towardsdatascience.com/anova-tukey-test-in-python-b3082b6e6bda
 
 ## Feature Engineering
