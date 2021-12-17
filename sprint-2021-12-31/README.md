@@ -28,6 +28,7 @@ In this sprint I want to:
 
 - [ ] Notes🚨
 - [ ] First Chapters NN form scratch
+- [x] https://www.youtube.com/watch?v=hjnVLfvhN0Q&t=1818s (Pytorch Automatic Differentiation)
 - [ ] Deep Learning with Pytorch
   - [x] Chap 01
   - [x] Chap 02
