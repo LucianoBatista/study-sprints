@@ -15,7 +15,7 @@ In this sprint I want to:
 - [ ] Tera notebooks and Tamy class
 - [ ] https://www.eigenfoo.xyz/tests-as-linear/ 🚨
 - [x] https://www.reneshbedre.com/blog/anova.html
-- [ ] https://towardsdatascience.com/anova-tukey-test-in-python-b3082b6e6bda
+- [x] https://towardsdatascience.com/anova-tukey-test-in-python-b3082b6e6bda
 
 ## Feature Engineering
 
@@ -26,7 +26,7 @@ In this sprint I want to:
 
 ## Deep Learning Review
 
-- [ ] Notes🚨
+- [x] Notes🚨
 - [ ] First Chapters NN form scratch
 - [x] https://www.youtube.com/watch?v=hjnVLfvhN0Q&t=1818s (Pytorch Automatic Differentiation)
 - [ ] Deep Learning with Pytorch
@@ -45,10 +45,10 @@ In this sprint I want to:
 
 ## NLP Books
 
-- [ ] Review studied until now (Cap 1 to 3)
+- [x] Review studied until now (Cap 1 to 3)
 - [ ] Cap 04 Practical NLP (Text Classification)
 
 ## Tera Challenge
 
-- [ ] Regression Project
+- [x] Regression Project
 
