@@ -52,3 +52,6 @@ In this sprint I want to:
 
 - [x] Regression Project
 
+## Review
+
+This period was a little difficult to accomplish great results.
